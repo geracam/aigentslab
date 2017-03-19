@@ -4,14 +4,14 @@ baseurl: /aigentslab/
 # Site settings
 title: AIgents Lab
 email: hernangt12re3@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Tecnologías de Analítica de datos y Computación Cognitiva que brindan un servicio democratizado de toma de decisiones sin costos de implementación"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Santiago Gonzalez
   pic: 1
-  position: Lead Designer
+  position: MSc Eng. Data Science Engineer, Full Stack Developer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Andres Barnuevo
   pic: 2
-  position: Lead Marketer
+  position: MSc Eng. Experto en Seguridad, Desarrollador de Software
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Oscar Malgiaritta
   pic: 3
-  position: Lead Developer
+  position: Eng. Full Stack Developer
   social:
     - title: twitter
       url: #
@@ -45,20 +45,19 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
+  - title: bitbucket
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: #
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Cuenca, Ecuador
 
 # Build settings
 markdown: kramdown
