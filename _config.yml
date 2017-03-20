@@ -9,37 +9,43 @@ description: "Tecnologías de Analítica de datos y Computación Cognitiva que
 
 # Team names, titles and social links
 people:
-- name: Santiago Gonzalez
+- name: Andres Barnuevo
   pic: 1
-  position: MSc Eng. Data Science Engineer, Full Stack Developer
+  position: MSc Seguridad de la Informacion
+  area: Consultor Senior y Desarrollador de Software
+  role: Co-Fundador
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+      url: https://twitter.com/andresbarnuevo
+    - title: linkedin
+      url: https://www.linkedin.com/in/andresbarnuevo/
+    - title: github
       url: #
 
-- name: Andres Barnuevo
+- name: Santiago Gonzalez
   pic: 2
-  position: MSc Eng. Experto en Seguridad, Desarrollador de Software
+  position: MSc Web Science and Big Data Analytics
+  area: Data Science Engineer & Full Stack Developer
+  role: Co-Fundador
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/santteegt
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/santteegt/
+    - title: github
+      url: https://santteegt.github.io/
 
 - name: Oscar Malgiaritta
   pic: 3
-  position: Eng. Full Stack Developer
+  position: Ingeniero de Sistemas
+  area: Freelance Full Stack Developer
+  role: Co-Fundador
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+      url: https://twitter.com/omalgia
+    - title: linkedin
+      url: https://www.linkedin.com/in/oscar-malgiaritta-53a7978b/
+    - title: github
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

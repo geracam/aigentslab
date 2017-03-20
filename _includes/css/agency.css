@@ -293,7 +293,6 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
@@ -302,7 +301,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
@@ -316,7 +315,6 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
@@ -652,8 +650,15 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+aside.clients p{
+  text-align: center;
+  color: #b4bcc2;
+  margin-top: 30px;
+}
+
 aside.clients img {
-    margin: 50px auto;
+  margin: 10px auto 30px;
+  width: 250px;
 }
 
 section#contact {
@@ -870,4 +875,7 @@ body {
 .aigentslab-logo{
   margin-top: -20px;
   max-height: 60px;
+}
+.fa-stack-2x{
+  z-index: -1;
 }
