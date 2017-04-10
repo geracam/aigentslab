@@ -879,3 +879,7 @@ body {
 .fa-stack-2x{
   z-index: -1;
 }
+
+#demo{
+  padding: 100px 0px; 
+}
